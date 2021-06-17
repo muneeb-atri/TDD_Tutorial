@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'rof)e9xfb=dn4=acv0n6!&qc!#$qs6i(!4!(cur!k1c=r!z%f$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['ms-tdd-tutorial.herokuapp.com']
 
