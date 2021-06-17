@@ -17,4 +17,3 @@ script:
 - coverage run manage.py test
 after_success:
 - coveralls
-#deploy
