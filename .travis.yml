@@ -14,7 +14,6 @@ services:
 install:
 - pip install -r requirements.txt
 script:
-- python manage.py migrate
 - coverage run manage.py test
 after_success:
 - coveralls
