@@ -1,0 +1,7 @@
+Django==2.2
+gunicorn
+django-heroku
+selenium
+whitenoise==5.2.0
+coverage==5.5
+coveralls==3.0.1
